@@ -12,7 +12,7 @@
 
 <br />
 
-![](images/main.png)
+![](images/train_animation.gif)
 
 
 # <div align="center">Install</div>
